@@ -102,7 +102,7 @@ Examples:
 
 ## 👩‍💻 Author
 
-**Shruthi Barla**
+**HEMANT ANKOLA**
 
 ---
 
